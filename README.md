@@ -27,8 +27,8 @@ Welcome to Sturdy Octo Disco, a fun and creative project designed to overlay sun
 
 ## PROGRAM:
 ```
-Developed by: DAKSHATA G
-Register Number: 212223240021
+Developed by: Sanjay Balaji S
+Register Number: 212223240149
 ```
 ```
 # Import libraries and Load the Face Image
